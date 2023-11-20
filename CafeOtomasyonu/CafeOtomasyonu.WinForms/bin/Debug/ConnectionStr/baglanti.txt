@@ -1,0 +1,1 @@
+Data Source=.;Initial Catalog=Cafe;Integrated Security=true
